@@ -36,3 +36,5 @@ Este projeto é open-source e está disponível sob a [Licença MIT](./LICENSE).
 ---
 
 ## 📸 Pré-visualização
+
+![image](https://github.com/user-attachments/assets/5ab9cee2-6662-4182-814f-903889eacf71)
